@@ -1,3 +1,1 @@
-# Studentmarksprediction
-
-The core idea is to predict a student's marks based on their studying hours using the Linear Regression algorithm from the Scikit Learn library. The project utilizes various Python libraries for data handling and visualization, including Numpy, Pandas, Matplotlib, and Seaborn. The project includes the data in a CSV file (student_info.csv) and the prediction logic in a Jupyter Notebook (Student_Mark_Prediction_Using_Machine_Learning.ipynb).
+The core idea is to predict a student's marks based on their studying hours using the Linear Regression algorithm from the Scikit Learn library. The project utilizes various Python libraries for data handling and visualization, including Numpy, Pandas, Matplotlib, and Seaborn. The project includes the data in a CSV file (student_info.csv) and the prediction logic in a Jupyter Notebook.
